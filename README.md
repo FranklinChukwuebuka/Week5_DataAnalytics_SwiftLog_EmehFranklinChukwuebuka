@@ -1,0 +1,2 @@
+# Week5_DataAnalytics_SwiftLog_EmehFranklinChukwuebuka
+SwiftLog Logistics Analystics project for AnalystLab Africa Experience Lab
